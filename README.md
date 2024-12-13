@@ -1,11 +1,15 @@
 # MidasOil
-
 Aplicativo para listar postos de combustível
 
-Projeto desenvolvido em 3 etapas
+## Ideação e planejamento inicial do MVP
+Desenvolvido em 3 etapas
 - Lean Inception, utilizado o Miro e o template do Paulo Caroli
 - Método Scrum para desenvolvimento do produto, utilizado o Jira
 - Prototipagem incial da interface, utilizado o Figma
+---
+
+- No diretório Wireframe estão disponíveis protótipos iniciais da interface
+- O arquivo Backlog-MidasOil.pdf apresenta informações sobre o backlog do produto e da primeira sprint no Jira
 
 ---
 ## Link para acessar a Lean Inception no Miro
