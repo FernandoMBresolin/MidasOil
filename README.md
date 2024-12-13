@@ -3,8 +3,8 @@
 Aplicativo para listar postos de combustível
 
 Projeto desenvolvido em 3 etapas
-- Realizado a Lean Inception, utilizado o Miro e o template do Paulo Caroli
-- Utilizado o método Scrum para desenvolvimento do produto, utilizado o Jira
+- Lean Inception, utilizado o Miro e o template do Paulo Caroli
+- Método Scrum para desenvolvimento do produto, utilizado o Jira
 - Prototipagem incial da interface, utilizado o Figma
 
 ---
