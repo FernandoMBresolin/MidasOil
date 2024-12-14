@@ -18,3 +18,7 @@ https://miro.com/app/board/uXjVLCsP764=/?share_link_id=665858677797
 ---
 ## Link para acessar o wireframe no Figma
 https://www.figma.com/design/KLqOskdXJDD70l9FucMNnB/MVP?node-id=33-824&t=jtBdhgy6NUB2T5Vr-1
+
+--
+## Link para acessar a apresentação do projeto
+https://youtu.be/_5e5gQ2i1XM
